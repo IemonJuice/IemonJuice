@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <video autoplay height="500" src="https://thumbs.gfycat.com/AbandonedAnguishedCatfish-size_restricted.gif"  /></video>
+  <img autoplay height="500" src="https://thumbs.gfycat.com/AbandonedAnguishedCatfish-size_restricted.gif"  />
 </div>
 
 ###
