@@ -63,9 +63,8 @@
 ###
 
 <div align="center">
-  <img height="500" src="[[https://ibb.co/0tGMmhr](https://ibb.co/0tGMmhr)](https://imageup.ru/img175/4409948/pngwingcom-5.jpg)"  />
+  <img height="500" src="https://abrakadabra.fun/uploads/posts/2021-12/1640384377_5-abrakadabra-fun-p-banner-profilya-anime-5.png"  />
 </div>
-
 ###
 
 <br clear="both">
