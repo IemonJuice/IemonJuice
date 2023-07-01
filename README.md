@@ -29,7 +29,6 @@
   <img width="13" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="100" alt="typescript logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="100" alt="stackoverflow logo"  />
   <img width="13" />
   <img src="https://cdn.simpleicons.org/github/181717" height="100" alt="github logo"  />
   <img width="13" />
@@ -37,7 +36,6 @@
   <img width="13" />
   <img src="https://cdn.simpleicons.org/markdown/000000" height="100" alt="markdown logo"  />
   <img width="13" />
-  <img src="https://cdn.simpleicons.org/webstorm/000000" height="100" alt="webstorm logo"  />
   <img width="13" />
   <img src="https://cdn.simpleicons.org/vercel/000000" height="100" alt="vercel logo"  />
   <img width="13" />
