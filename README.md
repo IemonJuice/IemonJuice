@@ -18,32 +18,46 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="70" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="70" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="70" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="70" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="70" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70" alt="csharp logo"  />
+<div align="center">
+  <img src="https://cdn.simpleicons.org/csharp/239120" height="100" alt="csharp logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="100" alt="nginx logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="100" alt="visualstudio logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="100" alt="dot-net logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/reactivex/B7178C" height="100" alt="reactivex logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="100" alt="sass logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="100" alt="vscode logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="100" alt="css3 logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="100" alt="typescript logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="100" alt="stackoverflow logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="100" alt="github logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/jetbrains/000000" height="100" alt="jetbrains logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/markdown/000000" height="100" alt="markdown logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/webstorm/000000" height="100" alt="webstorm logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="100" alt="vercel logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="100" alt="javascript logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="100" alt="angularjs logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="100" alt="npm logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="100" alt="html5 logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="100" alt="git logo"  />
 </div>
 
 ###
@@ -74,8 +88,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/IemonJuice/IemonJuice/output/snake.svg" alt="Snake animation" />
 
-###
+
+
