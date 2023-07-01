@@ -21,17 +21,9 @@
 <div align="center">
   <img src="https://cdn.simpleicons.org/csharp/239120" height="100" alt="csharp logo"  />
   <img width="13" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="100" alt="nginx logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="100" alt="visualstudio logo"  />
-  <img width="13" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="100" alt="dot-net logo"  />
   <img width="13" />
-  <img src="https://cdn.simpleicons.org/reactivex/B7178C" height="100" alt="reactivex logo"  />
-  <img width="13" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="100" alt="sass logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="100" alt="vscode logo"  />
   <img width="13" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="100" alt="css3 logo"  />
   <img width="13" />
