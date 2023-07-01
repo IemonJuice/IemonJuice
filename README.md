@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning micro front-end technologies<br>🎯 Goals:best of  Full-stack<br>🎲 Fun fact: make authorizaton via local storage ;o</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning micro front-end technologies<br>🎯 Goals:best of  Full-stack<br>🎲 Fun fact: make authorizatopn via local storage ;o</p>
 
 ###
 
@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="70" alt="webstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70" alt="csharp logo"  />
 </div>
 
 ###
@@ -72,5 +74,8 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/IemonJuice/IemonJuice/output/snake.svg" alt="Snake animation" />
 
 ###
