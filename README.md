@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://abrakadabra.fun/uploads/posts/2021-12/1640384377_5-abrakadabra-fun-p-banner-profilya-anime-5.png"  />
+  <img height="300" src="https://abrakadabra.fun/uploads/posts/2021-12/1640384377_5-abrakadabra-fun-p-banner-profilya-anime-5.png"  />
 </div>
 
 <br clear="both">
