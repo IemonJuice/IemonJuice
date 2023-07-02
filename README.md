@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pasha and I'm a 2nd  year software engineering student, from Ukraine</p>
+<p align="left">My name is Pasha and I'm a 2nd  year software engineering student</p>
 
 ###
 
