@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning micro front-end technologies<br>🎯 Goals:best of  Full-stack<br>🎲 Fun fact: make authorizatopn via local storage ;o</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning micro front-end technologies<br>🎯 Goals:best of  Full-stack<br>🎲 Fun fact: make authorizaton via local storage ;o</p>
 
 ###
 
