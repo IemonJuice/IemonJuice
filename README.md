@@ -1,82 +1,119 @@
-<h1 align="left">YO!</h1>
-
-###
-
-<p align="left">My name is Pasha, software engineering student</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning micro front-end technologies<br>🎯 Goals:best of  Full-stack<br>🎲 Fun fact: love cats c: </p>
-
-###
-
-<h2 align="left">I code with</h2>
+<img align="right" height="500" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="100" alt="csharp logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="100" alt="dot-net logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="100" alt="sass logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="100" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="100" alt="typescript logo"  />
-  <img width="13" />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="100" alt="github logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/jetbrains/000000" height="100" alt="jetbrains logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/markdown/000000" height="100" alt="markdown logo"  />
-  <img width="13" />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="100" alt="vercel logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="100" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="100" alt="angularjs logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="100" alt="npm logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="100" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="100" alt="git logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://profile-counter.glitch.me/IemonJuice/count.svg?"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="300" src="https://abrakadabra.fun/uploads/posts/2021-12/1640384377_5-abrakadabra-fun-p-banner-profilya-anime-5.png"  />
-</div>
+<h1 align="center">🌟 Enthusiastic explorer of the digital realm. 🚀</h1>
+
+###
+
+<h3 align="left">👤  About Me</h3>
+
+###
+
+<p align="left">I'm Pasha Front end dev from Ukraine<br><br>- 🔭 I’m working as Front end Angular developer<br>- 📚 I'm currently learning Java Spring microservices<br>- ⚡ In my free time I'm discovering new approaches and technologies</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IemonJuice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IemonJuice&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=IemonJuice&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" height="40" alt="jasmine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
 
+###
 
+<br clear="both">
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IemonJuice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="300" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IemonJuice&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=IemonJuice&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=1&date_format=[Y ]M j&order=3" height="200" alt="streak graph"  />
+</div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/IemonJuice/IemonJuice/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<img align="right" height="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
+
+###
+
+<p align="left">Always pushing boundaries and seeking innovation.</p>
+
+###
+
+<p align="left">A tech wizard with an eye for detail.</p>
+
+###
+
+<p align="left">Passionate about coding and creating digital magic.</p>
+
+###
+
+<div align="center">
+  <img height="230" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"  />
+</div>
+
+###
