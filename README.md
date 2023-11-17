@@ -110,8 +110,6 @@
 
 ###
 
-<div align="center">
-  <img height="230" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"  />
-</div>
+<p align="left">I absolutely love programming! The thrill of solving complex problems, the joy of creating something from scratch, and the endless possibilities of coding languages fuel my passion for programming. It's not just a skill for me; it's a source of excitement and fulfillment.</p>
 
 ###
