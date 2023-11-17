@@ -94,7 +94,7 @@
 
 <br clear="both">
 
-<img align="right" height="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
+<img align="right" height="400" src="https://cdn.changelog.com/uploads/news_items/jO3z/large.gif?v=63737071073"  />
 
 ###
 
