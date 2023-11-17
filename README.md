@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Pasha Front end dev from Ukraine<br><br>- 🔭 I’m working as Front end Angular developer<br>- 📚 I'm currently learning Java Spring microservices<br>- ⚡ In my free time I'm discovering new approaches and technologies</p>
+<p align="left">I'm Pasha Full-stack engineer from Ukraine<br><br>- 🔭 I’m working as Full-stack Angular / Express | Angular / Spring developer<br>- 📚 I'm currently know firebase, MongoDB, MySQL databases<br>- ⚡ In my free time I'm discovering VIM |ASTROVIM | NEOVIM</p>
 
 ###
 
