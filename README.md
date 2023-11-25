@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Pasha Full-stack engineer from Ukraine<br><br>- 🔭 I’m working as Full-stack Angular / Express | Angular / Spring developer<br>- 📚 I'm currently know firebase, MongoDB, MySQL databases<br>- ⚡ In my free time I'm discovering VIM |ASTROVIM | NEOVIM</p>
+<p align="left">I'm Pasha Full-stack engineer from Ukraine<br><br>- 🔭 I’m working as Full-stack Angular / Express | Angular / Spring developer<br>- 📚 I'm learning new different approaches to solve complex problems<br>- ⚡ In my free time I'm discovering VIM |ASTROVIM | NEOVIM</p>
 
 ###
 
