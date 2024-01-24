@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">I'm Pasha! 👋<br><br>Welcome to my coding realm! 🚀 I'm a Full Stack Developer hailing from Ukraine, and I embarked on this exciting journey back in 2016. Over the years, I've delved into the vast expanse of technologies, mastering both the frontend and backend realms.<br><br>I've cultivated a deep understanding of a diverse tech stack and continue to expand my horizons. Whether it's crafting seamless frontend experiences or architecting robust backend solutions, I'm passionate about the art and science of coding.<br><br>Join me on this coding adventure, where innovation meets functionality, and let's create something amazing together! Feel free to explore my repositories and connect with me on this ever-evolving journey of development. Happy coding! 🌐💻</h3>
+<h3 align="left">I'm Pasha! 👋<br><br>Welcome to my coding realm! 🚀 I'm a Full Stack Developer hailing from Ukraine, and I embarked on this exciting journey back in 2016.</h3>
 
 ###
 
