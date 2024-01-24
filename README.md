@@ -111,7 +111,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="1200" src="https://i.pinimg.com/originals/2b/de/7d/2bde7d14133968f97d6c4dd898edb989.gif"  />
+  <img height="700" src="https://i.pinimg.com/originals/2b/de/7d/2bde7d14133968f97d6c4dd898edb989.gif"  />
 </div>
 
 ###
