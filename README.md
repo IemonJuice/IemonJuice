@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">👾 Creating bugs since 2018<br><br><br>👾 I'm currently learning Microservices<br><br><br>👾 Goals: Senior Full stack developer<br><br><br>👾 Fact: Would use vim rather than VS code</h2>
+<h3 align="left">👾 Creating bugs since 2018<br><br><br>👾 I'm currently learning Microservices<br><br><br>👾 Goals: Senior Full stack developer<br><br><br>👾 Fact: Would use vim rather than VS code</h3>
 
 ###
 
