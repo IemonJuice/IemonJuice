@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Pasha Full-stack engineer from Ukraine<br><br>- 🔭 I’m working as Full-stack Angular / Express | Angular / Spring developer<br>- 📚 I'm learning new different approaches to solve complex problems<br>- ⚡ In my free time I'm discovering VIM | NestJS | patterns | algorithms and data structures</p>
+<p align="left">I'm Pasha Full-stack engineer from Ukraine<br><br>- 🔭 I’m working as Full-stack Angular / NestJS | Angular<br>- 📚 I'm learning new different approaches to solve complex problems<br>- ⚡ In my free time I'm discovering VIM </p>
 
 ###
 
@@ -56,10 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" height="40" alt="jasmine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
