@@ -111,7 +111,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="600" src="https://i.pinimg.com/originals/2b/de/7d/2bde7d14133968f97d6c4dd898edb989.gif"  />
+  <img height="500" src="https://i.pinimg.com/originals/2b/de/7d/2bde7d14133968f97d6c4dd898edb989.gif"  />
 </div>
 
 ###
@@ -134,6 +134,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/IemonJuice/IemonJuice/output/snake.svg" alt="Snake animation" />
 
 ###
